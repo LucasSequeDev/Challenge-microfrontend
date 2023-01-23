@@ -24,3 +24,20 @@ Haga un fork del repositorio original y envíe su solución en su repositorio pe
 - Por favor incluya comentarios y documentación en su código para ayudar a entender su solución.
 - Es importante que se siga los principios de buenas prácticas en programación para que sea legible y mantenible.
 - Es importante que se entregue una solución que funcione correctamente y cumpla con los requisitos especificados en el desafio.
+
+# Solution - simple
+
+if you want to see the code of this application go to the following links
+
+#### code
+- [Host - Counter](https://github.com/Ronald-Cifuentes/mf-host-simple-counter)
+- [Nav](https://github.com/Ronald-Cifuentes/mf-simple-nav)
+
+# Deployed in vercel:
+
+if you want to see this application running, please click on the following links
+
+- [Host - Counter](https://mf-host-simple-counter.vercel.app/)
+- [Nav](https://mf-simple-nav.vercel.app/)
+
+
